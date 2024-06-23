@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp_test_task",
+  "version": "1.0.0",
+  "description": "A simple web application using the framework Express for Node.js. It will serve static files and handle multiple routes.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnust/bootcamp_test_task.git"
+  },
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
